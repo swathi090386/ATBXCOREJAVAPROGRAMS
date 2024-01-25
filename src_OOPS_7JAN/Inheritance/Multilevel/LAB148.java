@@ -1,6 +1,6 @@
 package src_OOPS_7JAN.Inheritance.Multilevel;
 
-public class LAB148 {
+public class  LAB148 {
     public static void main(String[] args) {
       //  GrandFather g = new GrandFather();
       //  Father f = new Father();
